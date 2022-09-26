@@ -1,0 +1,63 @@
+.col-md-8 button {
+    background-color: rgb(18, 162, 18);
+    padding: 4px;
+    border: 2px solid rgb(18, 162, 18);
+}
+
+.icons {
+    margin-left: 30rem;
+}
+
+button {
+    color: white;
+    border-radius: 8px;
+}
+
+.empty {
+    color: brown;
+    border: 2px solid brown;
+}
+
+.logos {
+    margin-bottom: -2rem;
+    margin-right: 1rem;
+    color: white;
+    font-size: small;
+}
+
+.Active-logo {
+    font-size: small;
+    /* margin-right: 2rem; */
+}
+
+.col-3 {
+    font-size: small;
+    font-weight: lighter;
+}
+
+.backend-data {
+    font-weight: bold;
+}
+
+.white-space {
+    margin-top: 2rem;
+}
+
+.borders {
+    margin-top: -1.8rem;
+    color: white;
+    line-height: 1px;
+}
+
+
+.back-icon {
+    background-color: white;
+    margin-left: 0.3rem;
+    justify-content: center;
+    border-radius: 2.5rem;
+    padding: 2px;
+    padding-bottom: 4px;
+
+    /* padding-bottom: 2px; */
+    /* width: ; */
+}
